@@ -5,11 +5,25 @@ body {
     height: 100vh;
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
-    background-color: #f0f0f0; /* light grey */
+    background-color: #49a966; /* light grey */
 }
 
 .container {
     text-align: center;
+}
+
+h1 {
+    font-family: 'Anton', sans-serif;
+    letter-spacing: 1.5px;
+    color:rgb(223, 227, 231);
+    font-size: 45px;
+    margin-bottom: 1px;
+}
+
+h2 {
+    margin-top: 0px;
+    font-size: 13px;
+    margin-bottom: 10px;
 }
 
 button {
